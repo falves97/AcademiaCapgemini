@@ -1,6 +1,6 @@
-#Teste de Programação Academia Capgemini
+# Teste de Programação Academia Capgemini
 
-##Tecnologia Usadas
+## Tecnologia Usadas
 <table>
     <thead>
         <tr>
@@ -14,7 +14,7 @@
     </tbody>
 </table>
 
-##Compilar e Executar
+## Compilar e Executar
 Após clonar o repositório, vá na pasta AcademiaCapgemini e execute os seguintes comandos:
 
     javac -d bin/ -cp src/app src/app/Main
@@ -25,7 +25,7 @@ O comando anterior irá compilar o projeto, após isso, execute:
 
 para executar o projeto.
 
-##Funcionamento do projeto
+## Funcionamento do projeto
 Irá surgir um pequeno menu, após a execução, que listará as funcionalidades solicitadas no desafio.
 
 O usuário conseguira navegar entre elas digitando o número da funcionalidade desejada.
