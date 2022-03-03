@@ -17,7 +17,7 @@
 ## Compilar e Executar
 Após clonar o repositório, vá na pasta AcademiaCapgemini e execute os seguintes comandos:
 
-    javac -d bin/ -cp src/app src/app/Main
+    javac -d bin/ -cp src/app src/app/Main.java
 
 O comando anterior irá compilar o projeto, após isso, execute:
 
